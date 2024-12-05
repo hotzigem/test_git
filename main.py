@@ -1,3 +1,4 @@
+# ахах нет
 def main():
     print("hello")
     print("satas")
